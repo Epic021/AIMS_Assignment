@@ -1,0 +1,297 @@
+{
+  "Few_Shots_Examples": [
+    {
+      "input": {
+        "image": "image of pasta",
+        "title": "Cheesy Twists"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "1 (1 lb) box penne or penne rigate",
+            "2 tablespoons butter or margarine",
+            "2 garlic cloves, minced",
+            "2 tablespoons flour",
+            "3/4 cup chicken broth or beef broth",
+            "3/4 cup milk",
+            "2 teaspoons parsley flakes",
+            "Salt and pepper, to taste",
+            "1/3 cup grated Parmesan cheese"
+          ],
+          "Instructions": [
+            "Melt butter in a pan and sauté garlic until fragrant",
+            "Stir in flour to form a roux, then gradually add broth and milk while stirring",
+            "Cook the sauce until it thickens, then add seasonings and Parmesan",
+            "Mix the sauce with hot pasta and serve immediately"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of burger",
+        "title": "Mushroom Patty Thing"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "3 tbsp olive oil, divided",
+            "1 lb mushrooms (portobello, cremini, shiitake, or mix), trimmed and sliced",
+            "3/4 tsp kosher salt",
+            "1 tbsp soy sauce",
+            "2 tbsp tomato paste",
+            "2 cloves garlic, minced",
+            "15 oz can black beans, drained and rinsed",
+            "2 large eggs",
+            "1/2 cup panko",
+            "1/2 cup grated Parmesan cheese",
+            "1/3 cup mayonnaise",
+            "2 tsp sriracha",
+            "6 hamburger buns, toasted",
+            "Butter lettuce, for serving",
+            "Sliced tomato, for serving",
+            "Pickles, for serving"
+          ],
+          "Instructions": [
+            "Cook mushrooms in olive oil with salt, soy sauce, tomato paste,ca and garlic until soft and browned",
+            "Mash black beans and mix with eggs, panko, cheese, and cooked mushrooms to form a burger mixture",
+            "Shape into patties and cook in a skillet until browned on both sides",
+            "Mix mayonnaise and sriracha, then serve burgers on toasted buns with sriracha mayo and desired toppings"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of sandwich",
+        "title": "Egg Spread Sammy"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "4 large eggs",
+            "1/2 cup mayonnaise",
+            "1/4 teaspoon kosher salt",
+            "3/4 teaspoon white sugar",
+            "1 teaspoon Dijon mustard",
+            "3 dashes hot sauce, or to taste",
+            "1 teaspoon freshly squeezed lemon juice",
+            "2 teaspoons rice vinegar",
+            "1/2 teaspoon kosher salt, or to taste",
+            "1/4 teaspoon white sugar",
+            "1 pinch cayenne pepper",
+            "1 tablespoon heavy cream",
+            "4 slices soft white bread",
+            "1 tablespoon unsalted butter, softened"
+          ],
+          "Instructions": [
+            "Steam eggs until hard boiled, then cool and peel",
+            "Mix mayonnaise, salt, sugar, mustard, hot sauce, lemon juice, and rice vinegar to make Kewpie-style mayo",
+            "Mash eggs with seasonings, cream, and Kewpie mayo; chill for at least 1 hour",
+            "Butter bread slices, spread egg salad evenly, assemble sandwiches, and optionally remove crusts"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Fish Tacos",
+        "title": "Fishy Shell Wrap"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "2 cups all-purpose flour",
+            "1 1/2 teaspoons baking powder",
+            "1/4 teaspoon garlic powder",
+            "1/4 teaspoon cayenne",
+            "1/2 teaspoon dry mustard",
+            "1/2 teaspoon dried whole Mexican oregano, rubbed to a powder",
+            "Kosher salt",
+            "1/2 teaspoon fresh ground black pepper",
+            "1 (12 ounce) bottle cold beer, plus more to thin batter if necessary",
+            "2 lbs firm meaty fish (cod, snapper etc.)",
+            "Freshly squeezed lime juice",
+            "Vegetable oil (for deep frying)",
+            "Secret sauce: 3/4 cup mayonnaise, 1/4 cup low-fat yogurt, 1/2 teaspoon minced garlic, 1 tablespoon chopped cilantro"
+          ],
+          "Instructions": [
+            "Prepare the batter by whisking together flour, spices, and beer until smooth, then coat trimmed fish pieces with lime juice and salt",
+            "Deep fry the battered fish in hot oil until golden and crispy, then drain on a rack; reheat and refry before serving if desired",
+            "Assemble tacos by layering the fried fish on tortillas with guacamole, secret sauce, salsa, shredded cabbage, cilantro, and onion"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Hot Honey Baked Beans",
+        "title": "Spicy Bean Bake"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "4 slices bacon, chopped",
+            "1/2 cup chopped onion",
+            "2 cloves garlic, minced",
+            "3 (15-ounce) cans navy beans, rinsed and drained",
+            "1/2 cup honey",
+            "1/2 cup ketchup",
+            "1 tablespoon yellow mustard",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon cayenne pepper sauce (such as Franks® RedHot)",
+            "1/2 teaspoon crushed red pepper",
+            "1/2 teaspoon ground black pepper"
+          ],
+          "Instructions": [
+            "Cook bacon and onion until bacon is crisp and onion is tender; add garlic and cook briefly",
+            "Mix the cooked bacon mixture with beans, honey, ketchup, mustard, Worcestershire sauce, and spices",
+            "Bake covered at 350°F for 30 minutes, then uncover and bake until bubbly and thickened, about 30 more minutes"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Marry Me Chickpeas",
+        "title": "Creamy Bean Stew and Rice"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "1 tablespoon grapeseed oil or olive oil",
+            "2 cloves garlic, chopped",
+            "1 shallot, chopped",
+            "1 teaspoon smoked paprika",
+            "1 teaspoon dried oregano",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon red pepper flakes",
+            "2 tablespoons tomato paste",
+            "1/3 cup chopped sun-dried tomatoes in oil",
+            "2 (15 ounce) cans chickpeas",
+            "2 tablespoons lemon juice",
+            "1 cup vegetable broth",
+            "1 cup coconut milk"
+          ],
+          "Instructions": [
+            "Sauté shallots and garlic in oil until fragrant",
+            "Add spices, tomato paste, sun-dried tomatoes, and chickpeas; coat well and toast spices",
+            "Pour in vegetable broth and lemon juice; simmer covered 10 minutes, then stir in coconut milk and remove from heat"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Bagels",
+        "title": "Bread Rings"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "1 1/2 cups water",
+            "2 packages yeast",
+            "1 1/2 ounces sugar",
+            "1/2 ounce salt",
+            "3 1/2 cups bread flour",
+            "2 quarts water, to boil",
+            "1 egg white",
+            "Optional toppings: cinnamon, raisins, poppy seeds, dried onion or garlic, sesame seeds"
+          ],
+          "Instructions": [
+            "Activate yeast by mixing it with sugar and warm water, let stand for 3 minutes",
+            "Mix flour and salt, add yeast mixture, knead dough until firm, then let it rise until doubled",
+            "Shape dough into bagels, boil briefly in simmering water, then brush with egg white and add toppings",
+            "Bake bagels at 350°F for 35 minutes until golden brown and shiny"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Kheer",
+        "title": "Sweet Rice Bowl"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "2 cups coconut milk",
+            "2 cups milk",
+            "3 tablespoons white sugar",
+            "½ cup basmati rice",
+            "¼ cup raisins",
+            "½ teaspoon ground cardamom",
+            "½ teaspoon rose water (Optional)",
+            "¼ cup sliced almonds, toasted",
+            "¼ cup chopped pistachio nuts"
+          ],
+          "Instructions": [
+            "Bring coconut milk, milk, and sugar to a boil, then add rice and simmer on low until thick and rice is tender, about 20 minutes",
+            "Stir in raisins, cardamom, and rose water; cook for a few more minutes",
+            "Serve in bowls and garnish with toasted almonds and pistachios"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of paneer tikka masala",
+        "title": "Spicy Curry"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "¼ cup butter",
+            "1 pound paneer, cut into 1/2-inch cubes",
+            "2 medium onions, finely chopped",
+            "1 medium green bell pepper, chopped",
+            "2 medium jalapeño peppers, chopped",
+            "1 tablespoon ground cashews",
+            "1 teaspoon garlic paste",
+            "1 teaspoon ginger paste",
+            "1 teaspoon cayenne pepper",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "1 teaspoon garam masala",
+            "1 (16 ounce) can tomato sauce",
+            "1 pint half-and-half",
+            "1 teaspoon salt, or to taste"
+          ],
+          "Instructions": [
+            "Melt butter and cook paneer cubes until golden, about 5 minutes",
+            "Add onions, bell pepper, jalapeños, spices, and pastes; cook until fragrant, about 1 minute",
+            "Stir in tomato sauce, half-and-half, and salt; simmer until thickened, about 30 minutes"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Coffee Cake",
+        "title": "Sweet Cake"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "1/2 lb margarine",
+            "2 cups sugar",
+            "1 pint sour cream",
+            "1 teaspoon baking soda",
+            "4 eggs",
+            "1 teaspoon baking powder",
+            "3 cups flour",
+            "1 cup sugar (for topping)",
+            "1 teaspoon cinnamon (for topping)",
+            "3/4 cup walnuts, chopped (for topping)"
+          ],
+          "Instructions": [
+            "Cream margarine and sugar, then mix in sour cream, baking soda, and eggs one at a time",
+            "Sift baking powder and flour, then add to the mixture",
+            "Fold 3/4 of the topping ingredients into the batter and pour into a greased 9x13 inch pan",
+            "Sprinkle remaining topping on cake and bake at 350°F for 55 minutes"
+          ]
+        }
+      }
+    }
+  ]
+}

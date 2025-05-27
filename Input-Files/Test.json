@@ -1,0 +1,127 @@
+{
+  "test_data": [
+    {
+      "input": {
+        "image": "image of Cabbage Stir Fry",
+        "title": "Fried Cabbage"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "1 tablespoon vegetable oil",
+            "2 cloves garlic, minced",
+            "1 pound shredded cabbage",
+            "1 tablespoon soy sauce",
+            "1 tablespoon Chinese cooking wine (Shaoxing wine)"
+          ],
+          "Instructions": [
+            "Heat oil in a wok, add garlic, and cook for a few seconds until slightly browned",
+            "Add shredded cabbage, stir to coat, cover, and cook for 1 minute",
+            "Pour in soy sauce, stir for another minute, then add cooking wine and stir-fry until tender",
+            "Serve hot and enjoy"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of steamed buns",
+        "title": "Fluffy Buns"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "1 ¾ cups all-purpose flour, divided",
+            "¾ cup warm water, divided",
+            "1 tablespoon active dry yeast",
+            "1 teaspoon white sugar",
+            "2 tablespoons white sugar",
+            "1 tablespoon vegetable oil",
+            "¼ teaspoon salt",
+            "½ teaspoon baking powder"
+          ],
+          "Instructions": [
+            "Mix 1/4 cup flour, 1/4 cup warm water, yeast, and 1 tsp sugar; let sit 30 mins",
+            "Add remaining ingredients and knead to smooth dough; let rise until tripled",
+            "Punch down, knead in baking powder, shape into 24 balls on wax paper squares",
+            "Steam in batches for 15 mins; remove lid carefully to avoid water dripping on buns"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of Fried Noodles",
+        "title": "Noodly Stir Fry"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "2 (3 oz) packages soy sauce-flavored ramen noodles with seasoning packets",
+            "2 tbsp vegetable oil, divided",
+            "3 large eggs, beaten",
+            "2 tsp vegetable oil, divided",
+            "4 green onions, thinly sliced",
+            "1 small carrot, peeled and grated",
+            "½ cup green peas",
+            "¼ cup red bell pepper, minced",
+            "2 tbsp sesame oil, 1 tsp sesame oil, or to taste",
+            "1 tsp soy sauce, or to taste"
+          ],
+          "Instructions": [
+            "Boil and drain ramen noodles; set aside",
+            "Scramble eggs in oil, then stir-fry onions, carrots, peas, and bell pepper separately",
+            "Stir-fry noodles in sesame and vegetable oil; season with sauces and ramen seasoning",
+            "Mix in cooked vegetables and eggs; toss and heat through"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of burrito",
+        "title": "Breakfast Wrap"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "2 large eggs",
+            "2 tablespoons salsa",
+            "1 slice reduced-fat American cheese",
+            "1 tortilla"
+          ],
+          "Instructions": [
+            "Spray a bowl with nonstick spray, crack in eggs, add salsa, and stir",
+            "Microwave for 1 minute, stir, then cook for 1 more minute or until set",
+            "Place cheese on tortilla, top with the cooked egg mixture",
+            "Wrap it up like a burrito and serve warm"
+          ]
+        }
+      }
+    },
+    {
+      "input": {
+        "image": "image of chicken bites",
+        "title": "Chicken Bits"
+      },
+      "output": {
+        "summary": {
+          "Ingredients": [
+            "24 ounces frozen crispy chicken nuggets",
+            "1/2 cup mayonnaise",
+            "3 tablespoons sweet chili sauce",
+            "1 tablespoon Sriracha hot sauce (plus more if desired)",
+            "1/4 cup sliced green onions"
+          ],
+          "Instructions": [
+            "Preheat air fryer to 300°F (or oven to 400°F)",
+            "Cook chicken nuggets for 10 minutes in the air fryer, shaking halfway, or bake for 12 minutes until golden",
+            "Mix mayonnaise, sweet chili sauce, and Sriracha in a bowl",
+            "Toss hot nuggets in the sauce until coated",
+            "Top with green onions and serve"
+          ]
+        }
+      }
+    }
+  ]
+}  
