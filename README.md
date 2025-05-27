@@ -6,7 +6,7 @@ This project explores the application of Vision-Language Models (VLMs) to genera
 ## Project Structure
 ```
 AIMS_Intern_Assignment/
-├── Input Files/
+├── Input-Files/
 │   ├── Train.json
 │   ├── Test.json
 │   └── Images/
