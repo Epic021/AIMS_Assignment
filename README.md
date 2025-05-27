@@ -72,9 +72,6 @@ pip install Pillow
 3. Set up your API keys for Gemini
 4. Run the Gemini_Model/VLM_Assignment.ipynb (for final implementation)
 
-## Contributing
-Feel free to submit issues and enhancement requests!
-
 ## License
 MIT License 
 
