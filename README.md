@@ -70,9 +70,7 @@ pip install Pillow
 1. Clone the repository
 2. Install required dependencies
 3. Set up your API keys for Gemini
-4. Run the notebooks in the following order:
-   - HuggingFace_Attempt/notebook1.ipynb (for baseline)
-   - Gemini_Model/VLM_Assignment.ipynb (for final implementation)
+4. Run the Gemini_Model/VLM_Assignment.ipynb (for final implementation)
 
 ## Contributing
 Feel free to submit issues and enhancement requests!
