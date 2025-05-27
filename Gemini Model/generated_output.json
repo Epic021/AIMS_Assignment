@@ -1,0 +1,113 @@
+[
+    {
+        "summary": {
+            "Ingredients": [
+                "1 medium head of cabbage, thinly sliced",
+                "1/4 cup cooking oil (vegetable, canola, or olive oil)",
+                "1 medium onion, sliced",
+                "2 cloves garlic, minced",
+                "2 tablespoons soy sauce",
+                "1 tablespoon apple cider vinegar",
+                "1 teaspoon sugar",
+                "Salt and pepper to taste",
+                "Optional: red pepper flakes for heat"
+            ],
+            "Instructions": [
+                "Heat oil in a large skillet or wok over medium-high heat. Add sliced onion and cook until softened and translucent.",
+                "Add minced garlic and cook until fragrant, about 30 seconds. Be careful not to burn the garlic.",
+                "Add sliced cabbage to the skillet. Stir-fry until cabbage is tender-crisp and slightly caramelized, about 8-10 minutes.",
+                "In a small bowl, whisk together soy sauce, apple cider vinegar, sugar, salt, pepper, and optional red pepper flakes. Pour sauce over the cabbage mixture and stir-fry for another 1-2 minutes, until sauce is evenly distributed and cabbage is well coated."
+            ]
+        }
+    },
+    {
+        "summary": {
+            "Ingredients": [
+                "250g all-purpose flour",
+                "1 tsp instant dry yeast",
+                "30g sugar",
+                "1/4 tsp salt",
+                "120ml lukewarm milk",
+                "20g unsalted butter, softened",
+                "Optional: Small squares of parchment paper",
+                "Water for steaming"
+            ],
+            "Instructions": [
+                "Combine flour, yeast, sugar, and salt in a bowl. Add lukewarm milk and softened butter; knead until a smooth dough forms. Let rise for about 1 hour.",
+                "Divide the dough into equal portions (e.g., 7-8 pieces), shape into smooth round buns, and place each on a small square of parchment paper.",
+                "Place the buns in a steamer and steam over medium heat for 12-15 minutes. Ensure the steamer has enough water and avoid overcrowding.",
+                "Remove from steamer, let cool slightly before serving. Enjoy these fluffy buns plain or with fillings of your choice."
+            ]
+        }
+    },
+    {
+        "summary": {
+            "Ingredients": [
+                "8 oz dried noodles (such as ramen, lo mein, or rice noodles)",
+                "1 tablespoon sesame oil",
+                "1 cup chopped vegetables (such as carrots, bell peppers, green onions, and peas)",
+                "2 eggs, lightly beaten",
+                "1/4 cup soy sauce",
+                "1 tablespoon rice vinegar",
+                "1 teaspoon sugar",
+                "1/2 teaspoon ginger, grated",
+                "1 clove garlic, minced",
+                "Optional: protein such as tofu, chicken, or shrimp"
+            ],
+            "Instructions": [
+                "Cook noodles according to package directions, then toss with sesame oil and set aside.",
+                "Scramble eggs in a pan until cooked, then set aside. Stir-fry vegetables until tender.",
+                "Combine soy sauce, rice vinegar, sugar, ginger, and garlic in a bowl to make the sauce.",
+                "Add noodles, eggs, and sauce to the vegetables and stir-fry until heated through. Serve immediately."
+            ]
+        }
+    },
+    {
+        "summary": {
+            "Ingredients": [
+                "2 large eggs",
+                "2 tablespoons milk or cream",
+                "Salt and pepper to taste",
+                "1/4 cup shredded cheese (cheddar, Monterey Jack, or your choice)",
+                "1/4 cup cooked and diced meat (bacon, sausage, or ham)",
+                "1/4 cup diced vegetables (onion, bell pepper, tomatoes)",
+                "1 large flour tortilla (burrito size)",
+                "Optional: salsa, hot sauce, avocado for serving"
+            ],
+            "Instructions": [
+                "Whisk eggs with milk/cream, salt, and pepper. Scramble in a non-stick pan until cooked through, then stir in cheese, meat, and vegetables.",
+                "Warm the tortilla in a dry skillet or microwave until pliable.",
+                "Place the egg mixture in the center of the tortilla, fold in the sides, and roll up tightly.",
+                "Serve immediately with optional toppings like salsa, hot sauce, or avocado."
+            ]
+        }
+    },
+    {
+        "summary": {
+            "Ingredients": [
+                "1.5 lbs boneless, skinless chicken thighs or breasts, cut into bite-sized pieces",
+                "1 cup all-purpose flour",
+                "1 teaspoon salt",
+                "1/2 teaspoon black pepper",
+                "1/2 teaspoon garlic powder",
+                "1/2 teaspoon paprika",
+                "1 cup vegetable oil, for frying",
+                "1/2 cup honey",
+                "1/4 cup soy sauce",
+                "2 tablespoons rice vinegar",
+                "1 tablespoon sesame oil",
+                "1 tablespoon cornstarch",
+                "1 tablespoon water",
+                "1/2 teaspoon red pepper flakes, optional",
+                "2 green onions, thinly sliced",
+                "1 tablespoon sesame seeds"
+            ],
+            "Instructions": [
+                "Prepare chicken by coating in flour, salt, pepper, garlic powder, and paprika, then fry until golden and crispy.",
+                "Make the sauce by whisking together honey, soy sauce, rice vinegar, sesame oil, and red pepper flakes. Thicken it with cornstarch slurry if needed.",
+                "Toss fried chicken in the prepared sauce until well coated.",
+                "Garnish with sliced green onions and sesame seeds and serve immediately."
+            ]
+        }
+    }
+]
