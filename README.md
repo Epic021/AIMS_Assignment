@@ -6,14 +6,14 @@ This project explores the application of Vision-Language Models (VLMs) to genera
 ## Project Structure
 ```
 AIMS_Intern_Assignment/
-├── Input_Files/
+├── Input Files/
 │   ├── Train.json
 │   ├── Test.json
 │   └── Images/
-├── HuggingFace_Attempt/
+├── HuggingFace Model/
 │   ├── notebook1.ipynb
 │   └── notebook2.ipynb
-└── Gemini_Model/
+└── Gemini Model/
     ├── VLM_Assignment.ipynb
     └── generated_output.json
 ```
